@@ -1,6 +1,6 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=70b3dc&height=200&section=header&text=Hello!%20&fontAlign=70&rotate=13&fontAlignY=38&desc=goojin's%20GitHub&descAlign=90&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=70b3dc&height=200&section=header&text=Hello!%20&fontAlign=70&rotate=13&fontAlignY=38&desc=GooJin's%20GitHub&descAlign=91&descAlignY=44)
 
 안녕하세요-! 반갑습니다 🤗
 
