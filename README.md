@@ -1,18 +1,18 @@
 <div align=center>
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=70b3dc&height=200&section=header&text=Hello!%20&fontAlign=70&rotate=13&fontAlignY=38&desc=goojin's%20GitHub&descAlign=90.&descAlignY=44)
+![header](https://capsule-render.vercel.app/api?type=slice&color=70b3dc&height=200&section=header&text=Hello!%20&fontAlign=70&rotate=13&fontAlignY=38&desc=goojin's%20GitHub&descAlign=90&descAlignY=44)
 
-안녕하세요-!
+안녕하세요-! 반갑습니다 🤗
 
 <br/>
 
-#### 📮 Email 📮
+### 📮 Email 📮
 
 goo99dev@gmail.com
 
 <br/>
 
-#### ⚒️ Skills ⚒️
+### ⚒️ Skills ⚒️
 
 <img src="https://img.shields.io/badge/Spring-white?style=flat&logo=Spring&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor=6DB33F"/>
@@ -31,17 +31,17 @@ goo99dev@gmail.com
 <img src="https://img.shields.io/badge/RDS-white?style=flat&logo=AmazonRDS&logoColor=527FFF"/>
 <img src="https://img.shields.io/badge/S3-white?style=flat&logo=AmazonS3&logoColor=569A31"/>
 
-<br/> <br/>
+<br/>
 
 <br/>
 
-#### 👾 Algorithm 👾
+### 👾 Algorithm 👾
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jgoo99)](https://solved.ac/jgoo99)
 
 <br/>
 
-#### 📈 Stats 📈
+### 📈 Stats 📈
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jgoo99&show_icons=true&theme=nord)
 
