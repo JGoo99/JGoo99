@@ -1,7 +1,3 @@
-<div align=center>
-
-![header](https://capsule-render.vercel.app/api?type=slice&color=70b3dc&height=200&section=header&text=Hello!%20&fontAlign=70&rotate=13&fontAlignY=38&desc=GooJin's%20GitHub&descAlign=91&descAlignY=44)
-
 안녕하세요-! 반갑습니다 🤗
 
 <br/>
@@ -18,6 +14,8 @@ goo99dev@gmail.com
 <img src="https://img.shields.io/badge/SpringBoot-white?style=flat&logo=SpringBoot&logoColor=6DB33F"/>
 <img src="https://img.shields.io/badge/Gradle-white?style=flat&logo=Gradle&logoColor=02303A"/>
 <img src="https://img.shields.io/badge/Java-white?style=flat&logo=OpenJDK&logoColor=000000"/>
+<img src="https://img.shields.io/badge/nestjs-white?style=flat&logo=NestJS&logoColor=#E0234E"/>
+
 
 <br/>
 
